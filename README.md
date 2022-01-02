@@ -1,2 +1,2 @@
 # pandera-io
-Logging and profiling client for the pandera.io service
+validation logging and data profiling client for the pandera.io service
